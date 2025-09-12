@@ -85,7 +85,7 @@ const ignvvcio = {
 <tr>
 <td align="center" width="50%">
 
-### Portfolio 2.0
+### Portfolio 2.0 IN PROGRESS
 *Modern web portfolio built with cutting-edge technologies*
 
 **Tech Stack:** Astro • TypeScript • TailwindCSS  
