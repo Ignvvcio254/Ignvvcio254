@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg" width="100%" alt="Banner" />
+</div>
+
 # Ignvvcio254 👋
 
 **Full Stack Developer** • Obsesivamente dedicado
