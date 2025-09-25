@@ -45,14 +45,19 @@ const ignvvcio = {
 <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,django,flask,dotnet" />
 </p>
 
-### Database & Cloud
+### Databases
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase,aws,docker" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 </p>
 
-### Tools & Technologies
+### Cloud & Infrastructure
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,figma,androidstudio,discord,nginx" />
+<img src="https://skillicons.dev/icons?i=aws,docker,supabase,nginx" />
+</p>
+
+### Development Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,figma,androidstudio,discord" />
 </p>
 
 ---
