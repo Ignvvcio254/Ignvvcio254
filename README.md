@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg" width="100%" alt="Banner" />
+  <img src="https://i.postimg.cc/dt0n8tXT/1757723929816.jpg" width="100%" alt="Banner" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Ignvvcio254</h1>
